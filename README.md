@@ -1,6 +1,6 @@
 
 
-<img align="right" width="400" height="400" src="https://pixabay.com/get/gca5501855a49e1fc654572faf6deded81613d89596bc599c4666426a9c2993400bd42709ba0e53192f0f68c20d82b6dd_640.png" alt="css3" /> </a>
+<img align="right" width="400" height="400" src="https://github.com/cpdadev/image/blob/main/development-gbceec08d6_640.png" alt="css3" /> </a>
 <h1 align="center">Hi 👋, I'm Joseph Cepeda</h1>
 <h3 align="center">A passionate Front-End Developer (Entry Level... Currently)</h3>
 
