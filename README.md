@@ -19,7 +19,7 @@
 
 - 📫 You can reach me through my email **cpda.wdev@gmail.com**
 
-- 📄 Know about my experiences [SITE UNDER CONSTRUCTION](SITE UNDER CONSTRUCTION)
+- 📄 Know about my experiences [SITE UNDER CONSTRUCTION]
 
 - ⚡ Fun fact **I love to sing :D!**
 
